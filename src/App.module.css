@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  font-size: 5rem;
+  position: relative;
+  text-align: center;
+  position: absolute;
+  left: 45%;
+  top: 40%;
+}
